@@ -1,0 +1,2 @@
+beginner_tutorials:simulator
+-DCATKIN_DEVEL_PREFIX=/home/arek/catkin_ws_fun/devel -DCMAKE_INSTALL_PREFIX=/home/arek/catkin_ws_fun/install -G Unix Makefiles

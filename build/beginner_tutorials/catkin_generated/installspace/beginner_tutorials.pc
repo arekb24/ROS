@@ -1,0 +1,8 @@
+prefix=/home/arek/catkin_ws_fun/install
+
+Name: beginner_tutorials
+Description: Description of beginner_tutorials
+Version: 0.0.0
+Cflags: -I/home/arek/catkin_ws_fun/install/include
+Libs: -L/home/arek/catkin_ws_fun/install/lib 
+Requires: 

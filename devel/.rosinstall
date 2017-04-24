@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/arek/catkin_ws_fun/devel/setup.sh

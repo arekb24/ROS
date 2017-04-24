@@ -1,0 +1,8 @@
+prefix=/home/arek/catkin_ws_fun/devel
+
+Name: simulator
+Description: Description of simulator
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/arek/catkin_ws_fun/devel/lib 
+Requires: 
